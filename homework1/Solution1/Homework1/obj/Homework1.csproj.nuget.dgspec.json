@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stefi\\source\\repos\\master\\homework1\\Solution1\\Homework1\\Homework1.csproj": {}
+    "C:\\Users\\Stefi\\source\\repos\\Stefanija888\\homework1\\Solution1\\Homework1\\Homework1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stefi\\source\\repos\\master\\homework1\\Solution1\\Homework1\\Homework1.csproj": {
+    "C:\\Users\\Stefi\\source\\repos\\Stefanija888\\homework1\\Solution1\\Homework1\\Homework1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stefi\\source\\repos\\master\\homework1\\Solution1\\Homework1\\Homework1.csproj",
+        "projectUniqueName": "C:\\Users\\Stefi\\source\\repos\\Stefanija888\\homework1\\Solution1\\Homework1\\Homework1.csproj",
         "projectName": "Homework1",
-        "projectPath": "C:\\Users\\Stefi\\source\\repos\\master\\homework1\\Solution1\\Homework1\\Homework1.csproj",
+        "projectPath": "C:\\Users\\Stefi\\source\\repos\\Stefanija888\\homework1\\Solution1\\Homework1\\Homework1.csproj",
         "packagesPath": "C:\\Users\\Stefi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stefi\\source\\repos\\master\\homework1\\Solution1\\Homework1\\obj\\",
+        "outputPath": "C:\\Users\\Stefi\\source\\repos\\Stefanija888\\homework1\\Solution1\\Homework1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stefi\\AppData\\Roaming\\NuGet\\NuGet.Config",
